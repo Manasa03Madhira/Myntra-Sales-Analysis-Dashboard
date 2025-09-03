@@ -1,5 +1,3 @@
-<img width="1312" height="734" alt="Screenshot 2025-09-03 180312" src="https://github.com/user-attachments/assets/4d37e85b-79c6-4bca-b0bb-b2ccf3ed0d52" />**Myntra Sales Analysis Dashboard 📊**
-
 
 **📌 Project Overview**
 
