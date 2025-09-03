@@ -1,8 +1,7 @@
 **Myntra Sales Analysis Dashboard 📊**
 
 
-**
-📌 Project Overview**
+**📌 Project Overview**
 
 This project is a Power BI dashboard designed to analyze and visualize sales performance data from Myntra.
 It provides actionable insights into sales trends, customer demographics, product categories, and discounts, helping stakeholders make data-driven decisions.
