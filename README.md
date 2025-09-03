@@ -1,4 +1,4 @@
-**Myntra Sales Analysis Dashboard 📊**
+<img width="1312" height="734" alt="Screenshot 2025-09-03 180312" src="https://github.com/user-attachments/assets/4d37e85b-79c6-4bca-b0bb-b2ccf3ed0d52" />**Myntra Sales Analysis Dashboard 📊**
 
 
 **📌 Project Overview**
@@ -34,9 +34,10 @@ Power Query for data cleaning & transformation
 
 DAX for calculated columns & measures
 
-**📂 Project Files
-**
+**📂 Project Files**
+
 Myntra sales analysis.pbix → Power BI dashboard file
+
 
 **⚙️ How to Use**
 
@@ -46,12 +47,15 @@ Open it in Microsoft Power BI Desktop.
 
 Explore the dashboard using available slicers & filters.
 
+
 **📸 Dashboard Preview**
 
 <img width="1312" height="734" alt="Screenshot 2025-09-03 180312" src="https://github.com/user-attachments/assets/4186c2ef-ddaa-4946-9472-af66cc2b51ae" />
 
-**
-📈 Key Insights **
+
+
+
+**📈 Key Insights **
 
 Highest sales were recorded during festive seasons.
 
@@ -61,8 +65,10 @@ Discounts between 20%–40% drove maximum sales.
 
 Repeat customers show higher purchase frequency.
 
-**📑 Future Improvements
-**
+
+
+**📑 Future Improvements**
+
 Automate data refresh with Power BI Service
 
 Add forecasting models for sales prediction
