@@ -25,9 +25,6 @@ It provides actionable insights into sales trends, customer demographics, produc
 * **Power Query** for data cleaning & transformation
 * **DAX** for calculated columns & measures
 
-## 📂 Project Files
-
-* `Myntra sales analysis.pbix` → Power BI dashboard file
 
 ## ⚙️ How to Use
 
